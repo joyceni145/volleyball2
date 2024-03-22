@@ -1,0 +1,10 @@
+{
+"description": "serverless wordpress",
+	"scripts": {
+		"build": "diy-pwa build volleyball2",
+		"preview": "diy-pwa preview volleyball2"
+	},
+	"devDependencies": {
+		"diy-pwa": "latest"
+	}
+}
